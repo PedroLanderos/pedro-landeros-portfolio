@@ -34,8 +34,8 @@ const Hero = () => {
               Full Stack Developer
             </motion.span>
             <motion.a 
-              href="/assets/Landeros Pedro resume.docx" 
-              download="Landeros Pedro resume.docx" 
+              href="/assets/Jonas Landeros Resume.pdf" 
+              download="Jonas Landeros Resume.pdf" 
               className="mt-6 flex items-center text-lg text-white bg-blue-500 hover:bg-blue-600 py-2 px-4 rounded-full shadow-lg  focus:ring-blue-500"
               variants={container(1)}
               initial="hidden"
